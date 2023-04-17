@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="550mm"
+   height="499mm"
+   viewBox="39 400 550 498.99999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="PWR2.svg"
+   inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/PWR2.png"
+   inkscape:export-xdpi="105"
+   inkscape:export-ydpi="105"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="false"
+     guidecolor="#0031ff"
+     guideopacity="0.49803922"
+     inkscape:lockguides="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.14731055"
+     inkscape:cx="957.16159"
+     inkscape:cy="1286.398"
+     inkscape:window-width="1280"
+     inkscape:window-height="675"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     height="899mm"
+     scale-x="1e-05"
+     viewbox-x="49"
+     viewbox-y="400">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1895"
+       originx="0"
+       spacingx="0.52916665"
+       spacingy="0.52916665"
+       dotted="false"
+       originy="0"
+       visible="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="238.06796"
+       y="1900.3671"
+       width="158.71198"
+       height="125.29893"
+       id="rect1576" />
+    <rect
+       x="463.60602"
+       y="3383.071"
+       width="296.5408"
+       height="100.23914"
+       id="rect17401" />
+    <rect
+       x="455.25275"
+       y="3190.946"
+       width="309.93329"
+       height="119.77555"
+       id="rect16405" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path11569" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12104"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path12102" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path11563" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11548" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter5914"
+       x="-0.10363996"
+       y="-0.047654007"
+       width="1.2072799"
+       height="1.0953079">
+      <feGaussianBlur
+         stdDeviation="3.01 0.01"
+         result="blur"
+         id="feGaussianBlur5912" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter7420"
+       x="-0.54064604"
+       y="-0.81606275"
+       width="2.0812921"
+       height="2.6321255">
+      <feGaussianBlur
+         stdDeviation="5.20826 5.39"
+         result="fbSourceGraphic"
+         id="feGaussianBlur7418" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix7440" />
+      <feGaussianBlur
+         id="feGaussianBlur7442"
+         stdDeviation="5.20826 5.39"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter7612"
+       x="-0.4687588"
+       y="-0.45623464"
+       width="1.9375176"
+       height="1.9124693">
+      <feGaussianBlur
+         stdDeviation="5.20826 5.39"
+         result="blur"
+         id="feGaussianBlur7610" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter910"
+       x="-0.70313822"
+       y="-0.72582785"
+       width="2.4062764"
+       height="2.4516557">
+      <feGaussianBlur
+         stdDeviation="5.20826 5.39"
+         result="blur"
+         id="feGaussianBlur908" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter1307"
+       x="-0.27390488"
+       y="-0.26941267"
+       width="1.5478098"
+       height="1.5388253">
+      <feGaussianBlur
+         stdDeviation="12.2412 11.9354"
+         result="blur"
+         id="feGaussianBlur1305" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter1623"
+       x="-0.20959966"
+       y="-2.4507463"
+       width="1.4191993"
+       height="5.9014926">
+      <feGaussianBlur
+         stdDeviation="4.90248 12.8528"
+         result="fbSourceGraphic"
+         id="feGaussianBlur1621" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1643" />
+      <feGaussianBlur
+         id="feGaussianBlur1645"
+         stdDeviation="4.90248 12.85"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix8396" />
+      <feGaussianBlur
+         id="feGaussianBlur8398"
+         stdDeviation="15.299 16.8279"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix8418" />
+      <feGaussianBlur
+         id="feGaussianBlur8420"
+         stdDeviation="15.299 16.8279"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter1307-1"
+       x="-0.27390488"
+       y="-0.26941267"
+       width="1.5478098"
+       height="1.5388253">
+      <feGaussianBlur
+         stdDeviation="12.2412 11.9354"
+         result="blur"
+         id="feGaussianBlur1305-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter10954"
+       x="-0.13810889"
+       y="-1.2962158"
+       width="1.2762178"
+       height="3.5924316">
+      <feGaussianBlur
+         stdDeviation="15.299 26.0013"
+         result="fbSourceGraphic"
+         id="feGaussianBlur10952" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix10974" />
+      <feGaussianBlur
+         id="feGaussianBlur10976"
+         stdDeviation="15.299 26.0013"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter11204"
+       x="-0.22986728"
+       y="-0.29559516"
+       width="1.4597346"
+       height="1.5911903">
+      <feGaussianBlur
+         stdDeviation="7.96028 9.18339"
+         result="blur"
+         id="feGaussianBlur11202" />
+    </filter>
+    <g
+       id="g1330">
+      <symbol
+         overflow="visible"
+         id="symbol9841">
+        <path
+           style="stroke:none"
+           d=""
+           id="path3179" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol2137">
+        <path
+           style="stroke:none"
+           d="m 1.265625,-0.765625 1.0625,-1.03125 c 1.546875,-1.375 2.140625,-1.90625 2.140625,-2.90625 0,-1.140625 -0.890625,-1.9375 -2.109375,-1.9375 -1.125,0 -1.859375,0.921875 -1.859375,1.8125 0,0.546875 0.5,0.546875 0.53125,0.546875 0.171875,0 0.515625,-0.109375 0.515625,-0.53125 0,-0.25 -0.1875,-0.515625 -0.53125,-0.515625 -0.078125,0 -0.09375,0 -0.125,0.015625 0.21875,-0.65625 0.765625,-1.015625 1.34375,-1.015625 0.90625,0 1.328125,0.8125 1.328125,1.625 C 3.5625,-3.90625 3.078125,-3.125 2.515625,-2.5 l -1.90625,2.125 C 0.5,-0.265625 0.5,-0.234375 0.5,0 H 4.203125 L 4.46875,-1.734375 H 4.234375 C 4.171875,-1.4375 4.109375,-1 4,-0.84375 3.9375,-0.765625 3.28125,-0.765625 3.0625,-0.765625 Z m 0,0"
+           id="path9359" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol7835">
+        <path
+           style="stroke:none"
+           d=""
+           id="path4941" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol6138">
+        <path
+           style="stroke:none"
+           d="M 3.59375,-2.21875 C 3.59375,-2.984375 3.5,-3.546875 3.1875,-4.03125 2.96875,-4.34375 2.53125,-4.625 1.984375,-4.625 c -1.625,0 -1.625,1.90625 -1.625,2.40625 0,0.5 0,2.359375 1.625,2.359375 1.609375,0 1.609375,-1.859375 1.609375,-2.359375 z M 1.984375,-0.0625 c -0.328125,0 -0.75,-0.1875 -0.890625,-0.75 C 1,-1.21875 1,-1.796875 1,-2.3125 1,-2.828125 1,-3.359375 1.09375,-3.734375 1.25,-4.28125 1.6875,-4.4375 1.984375,-4.4375 c 0.375,0 0.734375,0.234375 0.859375,0.640625 0.109375,0.375 0.125,0.875 0.125,1.484375 0,0.515625 0,1.03125 -0.09375,1.46875 -0.140625,0.640625 -0.609375,0.78125 -0.890625,0.78125 z m 0,0"
+           id="path7769" />
+      </symbol>
+    </g>
+    <g
+       id="g5212">
+      <symbol
+         overflow="visible"
+         id="symbol1294">
+        <path
+           style="stroke:none"
+           d=""
+           id="path193" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol1081">
+        <path
+           style="stroke:none"
+           d="m 1.265625,-0.765625 1.0625,-1.03125 c 1.546875,-1.375 2.140625,-1.90625 2.140625,-2.90625 0,-1.140625 -0.890625,-1.9375 -2.109375,-1.9375 -1.125,0 -1.859375,0.921875 -1.859375,1.8125 0,0.546875 0.5,0.546875 0.53125,0.546875 0.171875,0 0.515625,-0.109375 0.515625,-0.53125 0,-0.25 -0.1875,-0.515625 -0.53125,-0.515625 -0.078125,0 -0.09375,0 -0.125,0.015625 0.21875,-0.65625 0.765625,-1.015625 1.34375,-1.015625 0.90625,0 1.328125,0.8125 1.328125,1.625 C 3.5625,-3.90625 3.078125,-3.125 2.515625,-2.5 l -1.90625,2.125 C 0.5,-0.265625 0.5,-0.234375 0.5,0 H 4.203125 L 4.46875,-1.734375 H 4.234375 C 4.171875,-1.4375 4.109375,-1 4,-0.84375 3.9375,-0.765625 3.28125,-0.765625 3.0625,-0.765625 Z m 0,0"
+           id="path7606" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol6480">
+        <path
+           style="stroke:none"
+           d=""
+           id="path4797" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol984">
+        <path
+           style="stroke:none"
+           d="m 2.328125,-4.4375 c 0,-0.1875 0,-0.1875 -0.203125,-0.1875 -0.453125,0.4375 -1.078125,0.4375 -1.359375,0.4375 v 0.25 c 0.15625,0 0.625,0 1,-0.1875 v 3.546875 c 0,0.234375 0,0.328125 -0.6875,0.328125 H 0.8125 V 0 c 0.125,0 0.984375,-0.03125 1.234375,-0.03125 0.21875,0 1.09375,0.03125 1.25,0.03125 V -0.25 H 3.03125 c -0.703125,0 -0.703125,-0.09375 -0.703125,-0.328125 z m 0,0"
+           id="path7793" />
+      </symbol>
+    </g>
+    <g
+       id="g142">
+      <symbol
+         overflow="visible"
+         id="symbol4758">
+        <path
+           style="stroke:none"
+           d=""
+           id="path8463" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol3309">
+        <path
+           style="stroke:none"
+           d="m 1.265625,-0.765625 1.0625,-1.03125 c 1.546875,-1.375 2.140625,-1.90625 2.140625,-2.90625 0,-1.140625 -0.890625,-1.9375 -2.109375,-1.9375 -1.125,0 -1.859375,0.921875 -1.859375,1.8125 0,0.546875 0.5,0.546875 0.53125,0.546875 0.171875,0 0.515625,-0.109375 0.515625,-0.53125 0,-0.25 -0.1875,-0.515625 -0.53125,-0.515625 -0.078125,0 -0.09375,0 -0.125,0.015625 0.21875,-0.65625 0.765625,-1.015625 1.34375,-1.015625 0.90625,0 1.328125,0.8125 1.328125,1.625 C 3.5625,-3.90625 3.078125,-3.125 2.515625,-2.5 l -1.90625,2.125 C 0.5,-0.265625 0.5,-0.234375 0.5,0 H 4.203125 L 4.46875,-1.734375 H 4.234375 C 4.171875,-1.4375 4.109375,-1 4,-0.84375 3.9375,-0.765625 3.28125,-0.765625 3.0625,-0.765625 Z m 0,0"
+           id="path8538" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol2249">
+        <path
+           style="stroke:none"
+           d=""
+           id="path8670" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol9">
+        <path
+           style="stroke:none"
+           d="M 3.515625,-1.265625 H 3.28125 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 C 3.046875,-0.59375 2.515625,-0.59375 2.40625,-0.59375 H 1.125 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 h 2.875 z m 0,0"
+           id="path4561" />
+      </symbol>
+    </g>
+    <g
+       id="g129">
+      <symbol
+         overflow="visible"
+         id="symbol7640">
+        <path
+           style="stroke:none"
+           d=""
+           id="path4770" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol1705">
+        <path
+           style="stroke:none"
+           d="m 1.265625,-0.765625 1.0625,-1.03125 c 1.546875,-1.375 2.140625,-1.90625 2.140625,-2.90625 0,-1.140625 -0.890625,-1.9375 -2.109375,-1.9375 -1.125,0 -1.859375,0.921875 -1.859375,1.8125 0,0.546875 0.5,0.546875 0.53125,0.546875 0.171875,0 0.515625,-0.109375 0.515625,-0.53125 0,-0.25 -0.1875,-0.515625 -0.53125,-0.515625 -0.078125,0 -0.09375,0 -0.125,0.015625 0.21875,-0.65625 0.765625,-1.015625 1.34375,-1.015625 0.90625,0 1.328125,0.8125 1.328125,1.625 C 3.5625,-3.90625 3.078125,-3.125 2.515625,-2.5 l -1.90625,2.125 C 0.5,-0.265625 0.5,-0.234375 0.5,0 H 4.203125 L 4.46875,-1.734375 H 4.234375 C 4.171875,-1.4375 4.109375,-1 4,-0.84375 3.9375,-0.765625 3.28125,-0.765625 3.0625,-0.765625 Z m 0,0"
+           id="path2520" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol7092">
+        <path
+           style="stroke:none"
+           d=""
+           id="path5699" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol3434">
+        <path
+           style="stroke:none"
+           d="m 1.90625,-2.328125 c 0.546875,0 0.9375,0.375 0.9375,1.125 0,0.859375 -0.515625,1.125 -0.90625,1.125 -0.28125,0 -0.90625,-0.078125 -1.1875,-0.5 0.328125,0 0.40625,-0.234375 0.40625,-0.390625 0,-0.21875 -0.171875,-0.375 -0.390625,-0.375 -0.1875,0 -0.390625,0.125 -0.390625,0.40625 0,0.65625 0.71875,1.078125 1.5625,1.078125 0.96875,0 1.640625,-0.65625 1.640625,-1.34375 0,-0.546875 -0.4375,-1.09375 -1.203125,-1.25 0.71875,-0.265625 0.984375,-0.78125 0.984375,-1.21875 0,-0.546875 -0.625,-0.953125 -1.40625,-0.953125 -0.765625,0 -1.359375,0.375 -1.359375,0.9375 0,0.234375 0.15625,0.359375 0.359375,0.359375 0.21875,0 0.359375,-0.15625 0.359375,-0.34375 0,-0.203125 -0.140625,-0.359375 -0.359375,-0.375 0.25,-0.296875 0.71875,-0.375 0.984375,-0.375 0.3125,0 0.75,0.15625 0.75,0.75 0,0.296875 -0.09375,0.625 -0.28125,0.828125 -0.21875,0.265625 -0.421875,0.28125 -0.765625,0.3125 -0.171875,0.015625 -0.1875,0.015625 -0.21875,0.015625 -0.015625,0 -0.078125,0.015625 -0.078125,0.09375 0,0.09375 0.0625,0.09375 0.1875,0.09375 z m 0,0"
+           id="path3145" />
+      </symbol>
+    </g>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 169.33333,836.55064 c 0,-428.22283 0,-428.22283 0,-428.22283"
+       id="path1930" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 190.52563,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 211.66666,836.55064 c 0,-428.22283 0,-428.22283 0,-428.22283"
+       id="path1930-99" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 232.85897,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 254.02563,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-7" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 275.1923,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-6" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 296.35896,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 316.62758,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-8" />
+    <path
+       id="path1184-2-3-0"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 340.99236,560.15403 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 338.6923,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-14" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.0723;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 148.16666,836.55064 c 0,-428.22283 0,-428.22283 0,-428.22283"
+       id="path1930-71" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 359.85896,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-84" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 381.02563,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-80" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 402.19229,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-4" />
+    <path
+       id="path1184-2-87-4-1"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 405.16736,592.43537 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 423.35896,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-60" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 444.52563,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.07227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 465.69229,836.55032 c 0,-428.22251 0,-428.22251 0,-428.22251"
+       id="path1930-2" />
+    <path
+       id="path1184-2-3"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 193.27123,793.40902 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-6"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 278.07887,794.33203 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-6-5"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 362.83732,794.33202 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-6-8"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 446.72198,793.45822 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-6-1"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 214.29158,783.84644 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-6-7"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 299.05003,783.84644 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-6-13"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 383.80849,783.84645 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-6-80"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 468.56694,783.84644 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 236.08733,761.95233 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-3"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8308;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 405.60423,762.82612 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-6"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 257.0585,751.46674 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-0"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 278.90346,740.10736 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 299.87462,728.74798 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-4"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 427.4492,750.59294 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-04"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 448.42036,739.23356 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-64"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 469.39153,729.62177 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-21"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 383.75929,677.19383 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -169.5169,0.87378 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m 1.12511,1e-5 c 161.70038,0 161.70038,0 161.70038,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-21-7"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 405.60425,666.27136 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -169.5169,0.87378 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m 1.12511,10e-6 c 161.70038,0 161.70038,0 161.70038,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-21-1"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 426.57541,654.91197 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -169.5169,0.87378 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m 1.12511,10e-6 c 161.70038,0 161.70038,0 161.70038,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-21-1-5"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 447.54657,644.4264 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -169.5169,0.87378 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m 1.12511,1e-5 c 161.70038,0 161.70038,0 161.70038,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-21-1-5-7"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 468.51774,633.94082 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -169.5169,0.87378 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m 1.12511,10e-6 c 161.70038,0 161.70038,0 161.70038,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-1"
+       style="fill:#0300fb;fill-opacity:1;fill-rule:nonzero;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 257.49542,814.38019 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-4"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 214.67929,814.38019 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-9"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 172.73697,813.50639 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-5"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 300.31154,814.38019 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-90"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 341.38007,815.25399 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-93"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 384.1962,814.38019 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-40"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 427.01233,814.38019 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-7"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 469.82845,814.38019 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.61198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.67191, 9.67191;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 127.57458,613.40653 c 359.13118,0 359.13118,0 359.13118,0"
+       id="path4678"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-4-4"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 193.70813,592.43537 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-4-3"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 235.65046,592.43538 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-4-0"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 279.34038,592.43537 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-4-2"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 321.28271,592.43538 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-4-32"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 364.09884,592.43538 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-4-00"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 447.98349,592.43538 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-4"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 236.13654,570.63961 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68476,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-7"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 257.1077,560.15403 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-3"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 426.62461,560.15403 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0-0"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 340.94315,528.64812 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#fff7f7;stroke-width:3.81739;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter7420)"
+       id="rect6962"
+       width="49.770721"
+       height="34.042351"
+       x="466.62628"
+       y="512.06384" />
+    <path
+       id="path1184-2-87-4-4-1"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 150.0182,593.30917 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#fff7f7;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter7612)"
+       id="rect7528"
+       width="28.83535"
+       height="30.582947"
+       x="111.84621"
+       y="577.58081"
+       transform="matrix(0.12390419,0,0,0.64855744,88.337397,193.06908)"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-87-4-4-10"
+       style="fill:#0300fb;fill-opacity:1;stroke:#0300fb;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 490.79961,593.30917 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -23.75431,-3e-5 c 20.09736,0 20.09736,0 20.09736,0 m -18.18803,3e-5 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#fff7f7;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter910)"
+       id="rect7676"
+       width="19.223566"
+       height="19.223566"
+       x="478.84155"
+       y="582.82361"
+       transform="matrix(1.060653,0,0,0.92464743,-30.063082,44.641527)"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-4-2"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 172.34925,561.02783 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68476,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-4-9"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 150.50429,571.51341 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68476,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0-0-7"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 362.78812,518.16254 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0-0-9"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 151.32888,540.8813 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.115561,0.0858 c 78.780201,-0.17178 78.780201,-0.17178 78.780201,-0.17178 m -80.296871,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z" />
+    <path
+       id="path1184-2-2-8-0-0-91"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 171.42624,529.52192 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.115556,0.0858 c 78.780196,-0.17178 78.780196,-0.17178 78.780196,-0.17178 m -80.296866,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0-0-3"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 193.27122,519.03634 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78316,-2.78315 2.78315,2.7831502 0 0 1 2.78316,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0-0-5"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 532.30502,517.28875 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z" />
+    <path
+       id="path1184-2-2-8-0-0-1"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 213.36857,507.67697 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0-0-4"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.50688,508.55076 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0-0-38"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 554.14999,507.67696 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z" />
+    <rect
+       style="fill:#ffffff;stroke:#fff7f7;stroke-width:2.034;stroke-linecap:round;filter:url(#filter1307)"
+       id="rect1223"
+       width="110.9724"
+       height="110.09861"
+       x="28.83535"
+       y="480.58917"
+       transform="matrix(1.0231697,0,0,1.0158265,7.9990568,12.348464)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.59342;stroke-linecap:round;stroke-opacity:1"
+       id="rect1980"
+       width="418.99005"
+       height="93.210457"
+       x="108.13072"
+       y="402.41092" />
+    <path
+       id="path1184-2-3-45"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 320.895,571.51341 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-5"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 404.77965,571.51341 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-5-2"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 489.5381,572.38721 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-3-5-5"
+       style="fill:#008d00;fill-opacity:1;stroke:#008d00;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 510.50927,561.02782 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -42.04072,-0.0984 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -2.68477,0.0984 c 41.94233,0 41.94233,0 41.94233,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="fill:#ffffff;stroke:#fff7f7;stroke-width:2.034;stroke-linecap:round;filter:url(#filter1307-1)"
+       id="rect1223-8"
+       width="110.9724"
+       height="110.09861"
+       x="28.83535"
+       y="480.58917"
+       transform="matrix(0.9058985,0,0,1.2734897,445.36271,-114.01249)" />
+    <path
+       id="path1184-2-21-1-5-7-0"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 320.68214,709.38507 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -169.5169,0.87378 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m 1.12511,10e-6 c 161.70038,0 161.70038,0 161.70038,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-21-1-5-7-0-9"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 342.11111,698.35644 a 2.78315,2.7831502 0 0 1 -2.78315,2.78314 2.78315,2.7831502 0 0 1 -2.78315,-2.78314 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -169.5169,0.87378 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m 1.12511,10e-6 c 161.70038,0 161.70038,0 161.70038,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-21-1-5-7-0-9-3"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2.0337;stroke-linecap:round;stroke-opacity:1"
+       d="m 363.15012,686.85103 a 2.78315,2.7831502 0 0 1 -2.78315,2.78314 2.78315,2.7831502 0 0 1 -2.78315,-2.78314 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -169.5169,0.87378 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m 1.12511,10e-6 c 161.70038,0 161.70038,0 161.70038,0"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 320.84579,540.00751 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0-3"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 490.36269,538.25991 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1184-2-2-8-0-3-4"
+       style="fill:#ff8300;fill-opacity:1;stroke:#ff8300;stroke-width:2.034;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 512.20765,527.77433 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z m -84.11556,0.0858 c 78.7802,-0.17178 78.7802,-0.17178 78.7802,-0.17178 m -80.29687,0.0859 a 2.78315,2.7831502 0 0 1 -2.78315,2.78315 2.78315,2.7831502 0 0 1 -2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,-2.78315 2.78315,2.7831502 0 0 1 2.78315,2.78315 z"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.034;stroke-linecap:round;stroke-opacity:1;filter:url(#filter10954)"
+       id="rect10628"
+       width="539.08331"
+       height="97.069672"
+       x="63.268623"
+       y="434.21341"
+       transform="matrix(1.0056403,0,0,0.90265484,-1.8771575,39.62631)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.034;stroke-linecap:round;stroke-opacity:1;filter:url(#filter11204)"
+       id="rect11018"
+       width="87.536041"
+       height="78.002411"
+       x="476.6814"
+       y="488.81512" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"
+       d="m 93.654421,495.68595 c 0,331.0769 0,330.21023 0,330.21023"
+       id="path12084"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.03720815,-1.190287,1.190287,0.03720815,-3727.7138,1195.7238)"
+       id="text16403"
+       style="font-style:normal;font-weight:normal;font-size:37.0322px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16405);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         x="455.25195"
+         y="3224.7309"
+         id="tspan2424"><tspan
+           style="font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+           id="tspan2422">even</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(-0.01993323,-1.1202892,1.1202892,-0.01993323,-3689.1342,1189.7494)"
+       id="text17399"
+       style="font-style:normal;font-weight:normal;font-size:40.7883px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17401);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         x="463.60547"
+         y="3420.2827"
+         id="tspan2428"><tspan
+           style="font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+           id="tspan2426">odd</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.59632908,0,0,0.59632908,-79.033466,-639.10796)"
+       id="text1574"
+       style="font-style:normal;font-weight:normal;font-size:90px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1576);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         x="238.06836"
+         y="1982.4769"
+         id="tspan2432"><tspan
+           style="font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
+           id="tspan2430">t</tspan></tspan></text>
+    <g
+       inkscape:label=""
+       transform="matrix(4.3255565,0,0,4.3255565,81.481647,489.65127)"
+       id="g6189"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <g
+         id="g7898">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g2025">
+          <use
+             xlink:href="#symbol2137"
+             x="91.925003"
+             y="81.962997"
+             id="use4882"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g522">
+          <use
+             xlink:href="#symbol6138"
+             x="96.906998"
+             y="78.348"
+             id="use51"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label=""
+       transform="matrix(4.3991441,0,0,4.3991441,73.575247,438.41162)"
+       id="g6573"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <g
+         id="g8913">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3723">
+          <use
+             xlink:href="#symbol1081"
+             x="91.925003"
+             y="81.962997"
+             id="use5257"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4520">
+          <use
+             xlink:href="#symbol984"
+             x="96.906998"
+             y="78.348"
+             id="use1785"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label=""
+       transform="matrix(4.5623731,0,0,4.5623731,56.692722,377.20097)"
+       id="g6987"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <g
+         id="g5556">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5740">
+          <use
+             xlink:href="#symbol3309"
+             x="91.925003"
+             y="81.962997"
+             id="use59"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3049">
+          <use
+             xlink:href="#symbol9"
+             x="96.906998"
+             y="78.348"
+             id="use6485"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label=""
+       transform="matrix(4.547278,0,0,4.547278,54.495698,295.29389)"
+       id="g7431"
+       inkscape:export-filename="/Users/sridevi/Desktop/Sridevi-Grad School/TPI_Phase_Transition_Workspace/Data_Figures_Plot/Illustrations/path1184-2-3-0.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <g
+         id="g1790">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5195">
+          <use
+             xlink:href="#symbol1705"
+             x="91.925003"
+             y="81.962997"
+             id="use7138"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6916">
+          <use
+             xlink:href="#symbol3434"
+             x="96.906998"
+             y="78.348"
+             id="use7316"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
